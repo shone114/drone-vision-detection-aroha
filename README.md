@@ -6,7 +6,7 @@ This project builds a **drone-based aerial vision system** to detect and count o
 
 ## 🔗 Links
 - **Dataset (Roboflow):** [Aerial Object Detection v3](https://app.roboflow.com/shone/aerial-qjpyp-hs4x5/3)  
-- **Colab Notebook:** [Open in Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/14125-qLPRTQSyCQy6r6Xws5PMnvey64B?usp=sharing)) 
+- **Colab Notebook:** [Open in Google Colab]((https://colab.research.google.com/drive/14125-qLPRTQSyCQy6r6Xws5PMnvey64B?usp=sharing)) 
 ---
 
 ## 🧩 Deliverables
