@@ -1,0 +1,6 @@
+Model type: YOLOv8
+Model file: best.pt
+Framework: Ultralytics YOLOv8 (PyTorch)
+Image size used for training: 640x640
+Epochs trained: 30
+Export format: PyTorch (.pt)
