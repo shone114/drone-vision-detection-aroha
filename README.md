@@ -20,7 +20,9 @@ This project builds a **drone-based aerial vision system** to detect and count o
 ---
 
 **Author:** Shone
+
 **Date:** October 2025
+
 
 
 
