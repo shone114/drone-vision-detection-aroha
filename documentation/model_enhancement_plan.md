@@ -39,5 +39,3 @@ This process supports long-term adaptability and continuous improvement of detec
 
 ---
 
-**Document:** `model_enhancement_plan.md`  
-**Project:** Drone Vision Detection — Aroha Submission
