@@ -1,0 +1,5 @@
+Dataset name: Aerial
+Roboflow link: https://app.roboflow.com/shone/aerial-qjpyp-hs4x5/3
+Version: 3
+Export format: YOLOv8
+Source: Roboflow project (workspace: shone)
